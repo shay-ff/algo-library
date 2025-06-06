@@ -1,5 +1,21 @@
-just dumping in case I need them back :)
+# Competitive Programming Setup
 
-debug.cpp can be used by just pasting this in a .cpp file and adding the path
+This repository contains useful files and snippets to streamline your competitive programming workflow.
 
-to use snippets.cpp file in vim you have to download ultisnips plugin and then locate the .vim folder and paste it there
+## Contents
+
+- **debug.cpp**: A handy debug utility. You can use it by copying the contents into your `.cpp` files and including the appropriate path.
+- **snippets.cpp**: Contains code snippets for common algorithms and data structures.
+
+## Vim Integration
+
+To use `snippets.cpp` as code snippets in Vim:
+
+1. Install the [UltiSnips](https://github.com/SirVer/ultisnips) plugin.
+2. Locate your `.vim` folder.
+3. Paste `snippets.cpp` into the appropriate UltiSnips directory.
+
+## Purpose
+
+This repo serves as a personal backup and quick-access resource for frequently used code and editor configurations in competitive programming.
+
