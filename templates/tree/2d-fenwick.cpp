@@ -28,3 +28,4 @@ struct Fenwick2D {
 		return find_sum(rx - 1, ry - 1) - find_sum(rx - 1, ly - 1) - find_sum(lx - 1, ry - 1) + find_sum(lx - 1, ly - 1);
 	}
 };
+

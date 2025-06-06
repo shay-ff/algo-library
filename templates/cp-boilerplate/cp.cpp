@@ -13,6 +13,7 @@ using namespace std;
 #define show(x) cout << x << endl
 #define sz(x) (int)(x.size())
 
+
 // mt19937 rnd(239);
 mt19937 rnd(chrono::steady_clock::now().time_since_epoch().count());
 
